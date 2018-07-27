@@ -5,6 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
+* Source project:
+https://itnext.io/docker-rails-puma-nginx-postgres-999cd8866b18?gi=ecc194b0791
+
+* Goal: 
+Deploy a rails app to nginx in docker
+
 * Ruby version
 
 * System dependencies
